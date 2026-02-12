@@ -2,6 +2,7 @@
 Student Details
 
 Name: Seline Atieno Ochieng
+
 Registration Number: 668853
 
 # Brief Description
